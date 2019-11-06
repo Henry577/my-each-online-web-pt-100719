@@ -3,7 +3,7 @@ def my_each(collection)
   
   count = 0
   
-  while count< collection.size
+  while count < collection.size
   
     p collection[count]
     
