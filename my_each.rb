@@ -5,7 +5,7 @@ def my_each(collection)
   
   while count< collection.size
   
-    p "hi"
+    collection(count)
     
     count += 1
   
