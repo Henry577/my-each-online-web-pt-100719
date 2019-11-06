@@ -5,7 +5,7 @@ def my_each(collection)
   
   while count <= collection.size
   
-    p collection[count]
+    print collection[count]
     
     count += 1
   
